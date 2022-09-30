@@ -9,7 +9,7 @@ export default function carousel() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="public\images\Dela.jpg"
+          src="~/images/Dela.jpg"
           alt="First slide"
         />
         <Carousel.Caption>
@@ -20,7 +20,7 @@ export default function carousel() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="public\images\CHARLES AND DELA PIC.png"
+          src="~/images/CHARLES AND DELA PIC.png"
           alt="Second slide"
         />
 
@@ -32,7 +32,7 @@ export default function carousel() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="public\images\bridget and yaa PIC.png"
+          src="~/images/bridget and yaa PIC.png"
           alt="Third slide"
         />
 
